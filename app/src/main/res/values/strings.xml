@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PeakShapesPlayer</string>
+
+    <string name="canvas">Canvas Display</string>
+    <string name="undo">UNDO</string>
+    <string name="initial_score">0</string>
+    <string name="stats">STATS</string>
+
+    <string name="square">SQUARE</string>
+    <string name="circle">CIRCLE</string>
+    <string name="triangle">TRIANGLE</string>
+
+    <string name="delete">DELETE</string>
+
+
+</resources>
